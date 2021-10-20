@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\FizzBuzzTdd.Domain.deps.json
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\FizzBuzzTdd.Domain.dll
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\ref\FizzBuzzTdd.Domain.dll
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\FizzBuzzTdd.Domain.pdb
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.dll
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\ref\FizzBuzzTdd.Domain.dll
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.pdb

@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.UnitTests\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.UnitTests\obj\Debug\net5.0\FizzBuzzTdd.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.UnitTests\obj\Debug\net5.0\FizzBuzzTdd.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.UnitTests\obj\Debug\net5.0\FizzBuzzTdd.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.UnitTests\obj\Debug\net5.0\FizzBuzzTdd.UnitTests.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.UnitTests\obj\Debug\net5.0\FizzBuzzTdd.UnitTests.csproj.CoreCompileInputs.cache

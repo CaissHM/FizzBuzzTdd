@@ -61,21 +61,21 @@ namespace FizzBuzzTdd.UnitTests
             Assert.Equal(expected, actual);
         }
 
-        //[Fact]
-        //public void NumberIsntMultiple_Of3Or5Or3And5_ReturnsNumber()              *método do "Caso contrário, retorna o próprio número."*
-        //{
-        //    //Assert.Equal("Buzz", fizzBuzz.Of(25));
+        [Fact]
+        public void NumberIsntMultiple_Of3Or5Or3And5_ReturnsNumber()
+        {
+            //Assert.Equal("4", fizzBuzz.Of(4));
 
-        //    //refatorando:
-        //    //Arrange
-        //    var expected = "Buzz";
+            //refatorando:
+            //Arrange
+            var expected = "4";
 
-        //    //Act
-        //    var actual = fizzBuzz.Of(25);
+            //Act
+            var actual = fizzBuzz.Of(4);
 
-        //    //Assert
-        //    Assert.Equal(expected, actual);
-        //}
+            //Assert
+            Assert.Equal(expected, actual);
+        }
 
         [Fact]
         public void NumberIs0_ReturnsFizzBuzz()

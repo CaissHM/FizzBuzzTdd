@@ -9,7 +9,7 @@ namespace FizzBuzzTdd.Domain
             if (num % 3 == 0 && num % 5 == 0) return "FizzBuzz";
             else if (num % 3 == 0) return "Fizz";
             else if (num % 5 == 0) return "Buzz";
-            else return ""; //1º teste: se eu não colocar um retorno vazio em uma linha do código o método não compila - o código não aceita só "return" já que o retorno é "string"
+            else return num.ToString(); //1º teste: se eu não colocar um retorno vazio em uma linha do código o método não compila - o código não aceita só "return" já que o retorno é "string"
         }
     }
 }

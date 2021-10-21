@@ -9,3 +9,15 @@ C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\Fi
 C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.dll
 C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\ref\FizzBuzzTdd.Domain.dll
 C:\Users\Usuario\source\repos\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.pdb
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.csproj.AssemblyReference.cache
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.AssemblyInfoInputs.cache
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.AssemblyInfo.cs
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.dll
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\ref\FizzBuzzTdd.Domain.dll
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\obj\Debug\net5.0\FizzBuzzTdd.Domain.pdb
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\FizzBuzzTdd.Domain.deps.json
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\FizzBuzzTdd.Domain.dll
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\ref\FizzBuzzTdd.Domain.dll
+C:\Users\bcast\Documents\CODING\.NET + Angular (aulas)\.NET\ArqTest (proj. final módulo Arquitetura e Unit Test)\FizzBuzzTdd\FizzBuzzTdd.Domain\bin\Debug\net5.0\FizzBuzzTdd.Domain.pdb

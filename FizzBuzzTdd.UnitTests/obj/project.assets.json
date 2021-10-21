@@ -5933,24 +5933,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\bcast\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\FizzBuzzTdd\\FizzBuzzTdd.UnitTests\\FizzBuzzTdd.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\bcast\\Documents\\CODING\\.NET + Angular (aulas)\\.NET\\ArqTest (proj. final módulo Arquitetura e Unit Test)\\FizzBuzzTdd\\FizzBuzzTdd.UnitTests\\FizzBuzzTdd.UnitTests.csproj",
       "projectName": "FizzBuzzTdd.UnitTests",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\FizzBuzzTdd\\FizzBuzzTdd.UnitTests\\FizzBuzzTdd.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\FizzBuzzTdd\\FizzBuzzTdd.UnitTests\\obj\\",
+      "projectPath": "C:\\Users\\bcast\\Documents\\CODING\\.NET + Angular (aulas)\\.NET\\ArqTest (proj. final módulo Arquitetura e Unit Test)\\FizzBuzzTdd\\FizzBuzzTdd.UnitTests\\FizzBuzzTdd.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\bcast\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bcast\\Documents\\CODING\\.NET + Angular (aulas)\\.NET\\ArqTest (proj. final módulo Arquitetura e Unit Test)\\FizzBuzzTdd\\FizzBuzzTdd.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\bcast\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5964,8 +5959,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\source\\repos\\FizzBuzzTdd\\FizzBuzzTdd.Domain\\FizzBuzzTdd.Domain.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\source\\repos\\FizzBuzzTdd\\FizzBuzzTdd.Domain\\FizzBuzzTdd.Domain.csproj"
+            "C:\\Users\\bcast\\Documents\\CODING\\.NET + Angular (aulas)\\.NET\\ArqTest (proj. final módulo Arquitetura e Unit Test)\\FizzBuzzTdd\\FizzBuzzTdd.Domain\\FizzBuzzTdd.Domain.csproj": {
+              "projectPath": "C:\\Users\\bcast\\Documents\\CODING\\.NET + Angular (aulas)\\.NET\\ArqTest (proj. final módulo Arquitetura e Unit Test)\\FizzBuzzTdd\\FizzBuzzTdd.Domain\\FizzBuzzTdd.Domain.csproj"
             }
           }
         }
@@ -6016,7 +6011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

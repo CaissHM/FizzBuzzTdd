@@ -80,17 +80,17 @@ namespace FizzBuzzTdd.UnitTests
         [Fact]
         public void NumberIs0_ReturnsFizzBuzz()
         {
-            Assert.Equal("FizzBuzz", fizzBuzz.Of(0));
+            //Assert.Equal("FizzBuzz", fizzBuzz.Of(0));
 
-            ////refatorando:
-            ////Arrange
-            //var expected = "Buzz";
+            //refatorando:
+            //Arrange
+            var expected = "FizzBuzz";
 
-            ////Act
-            //var actual = fizzBuzz.Of(25);
+            //Act
+            var actual = fizzBuzz.Of(0);
 
-            ////Assert
-            //Assert.Equal(expected, actual);
+            //Assert
+            Assert.Equal(expected, actual);
         }
 
         [Fact]
